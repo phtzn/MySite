@@ -18,6 +18,15 @@ section {
   padding: 6rem 0;
 }
 
+#heroproto img {
+  height: 90%;
+  margin-left: 20%;
+}
+
+#casestudynav {
+  justify-content: space-evenly;
+}
+
 .hero {
   background: url(../img/hero.png);
   min-height: 100vh;
