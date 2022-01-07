@@ -2097,3 +2097,27 @@ code {
 .image__overlay:hover{
   opacity: 1;
 }
+
+#userpersonaimg img{
+  height: 15rem;
+}
+
+#empathymappersona img{
+  height: 15rem;
+}
+
+#desktopwireframe img{
+  height: 15rem;
+  display: block;
+  align-items: center;
+  margin: auto;
+  padding: 1%;
+}
+
+#desktopv3 img {
+  height: 30rem;
+  display: block;
+  align-items: center;
+  margin: auto;
+  padding: 1%;
+}
